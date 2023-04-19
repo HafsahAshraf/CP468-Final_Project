@@ -1,4 +1,4 @@
-# CP468-Final_Project
+# Predicting the Number of COVID Cases
 
   	The coronavirus disease 2019 (COVID-19) pandemic caused by the SARS-Cov2 virus has become the world's most serious and contentious health issue. 
   It is associated with a variety of clinical manifestations as well as a high mortality rate. Estimating the number of total cases and identifying outcome 
